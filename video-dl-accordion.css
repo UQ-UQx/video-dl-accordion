@@ -1,0 +1,28 @@
+.video-dl-accordion h3 {
+	padding-left: 1.8em;
+	font-size: 0.9em !important;
+	margin: 0px !important;
+}
+
+.video-dl-accordion .ui-accordion-header {
+	background: #FFFFFF;
+	color: #989898;
+	font-weight: 300 !important;
+}
+
+.video-dl-accordion .ui-state-focus {
+	color: #989898;
+	font-weight: 300 !important;
+}
+
+.video-dl-accordion #video-dl-body {
+	background: #FFFFFF;
+	font-size: 0.8em !important;
+	overflow: hidden;
+}
+
+.video-dl-accordion .ui-accordion-header {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #DDDDDD;
+}

@@ -1,0 +1,17 @@
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/static/video-dl-accordion.js"></script>
+<link href="/static/video-dl-accordion.css" rel="stylesheet" type="text/css"/>
+
+<div class="video-dl-accordion">
+	<h3>Download</h3>
+	<div id="video-dl-body">
+	<!-- Paste your manual download content here. -->
+		<div><span>(Right-Click &gt; Save As)</span>: <a href="https://online.ceit.uq.edu.au/sites/default/files/uqx-public/placeholder-1080p.mp4" target="_blank">1080p</a> | <a href="https://online.ceit.uq.edu.au/sites/default/files/uqx-public/placeholder-480p.mp4" target="_blank">480p</a> | <a href="https:/ceit-online.s3.amazonaws.com/video-workflow/placeholder.srt" target="_blank">Transcript (SRT file)</a></div>
+		<br />
+		<div>
+			<p><i>If you'd like to download this video to watch later on your mobile device, share with your friends, or present to your class, go right ahead!<br /><br />All UQx content by The University of Queensland is available for use under a Creative Commons Attribution-ShareAlike License.</i></p>
+			<a href="http://creativecommons.org/licenses/by-sa/4.0/deed.en_US" rel="license"><img alt="Creative Commons License" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+		</div>
+	<!-- Pasted content ends here. -->
+	</div>
+</div>
